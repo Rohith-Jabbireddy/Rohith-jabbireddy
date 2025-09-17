@@ -29,7 +29,7 @@ Currently seeking **full-time software roles** to kickstart my career.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" />
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="50" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
 </p>
 
@@ -39,7 +39,7 @@ Currently seeking **full-time software roles** to kickstart my career.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohithdevhub&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithdevhub&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohithdevhub&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
